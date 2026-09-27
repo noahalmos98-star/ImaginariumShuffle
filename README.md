@@ -1,6 +1,7 @@
 This little HTML program runs fully locally. No files are uploaded to the internet.
 
 I created this tool, with large help from Chat-GPT. Sorry. ^^'
+
 It's made, in an attempt to fix some of the "problems" which I noticed during the SoulLink IT video, by Zajef77 and Zy0x.
 In Imaginarium Theater, the characters are sorted by element, which I saw as potentially boring AND If your SoulLink partner has more characters available, some "fall off the edge" - making them un-selectable for your partner.
 
